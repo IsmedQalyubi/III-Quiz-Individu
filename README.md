@@ -14,3 +14,6 @@ Pertama klik panah pada flow sehingga berwarna orange,setelah itu klik kanan dan
 ![image](https://github.com/IsmedQalyubi/III-Quiz-Individu/blob/main/Screenshot%20(42).png) 
 Kemudian ketik "Hello World" Lalu klik oke. 
 ![image](https://github.com/IsmedQalyubi/III-Quiz-Individu/blob/main/Screenshot%20(43).png) 
+Setelah itu klik Run(Setiga berwarna hijau). 
+![image](https://github.com/IsmedQalyubi/III-Quiz-Individu/blob/main/Screenshot%20(44).png)
+Selesai! 
