@@ -9,6 +9,6 @@ Setelah selesai terunduh ekstrak filenya dan klik setup.
 Kemudian ikuti saya proses instalasi nya pilih I Agree dan klik next untuk seterusnya.Dan Flowgorithm sudah terinstall. 
 ![image](https://github.com/IsmedQalyubi/III-Quiz-Individu/blob/main/IMG_20211025_220839.jpg) 
 
-2.Tutorial mebuat hello world menggunakan flowgorithm
-Pertama klik panah pada flow
-![image](
+2.Tutorial mebuat hello world menggunakan flowgorithm. \
+Pertama klik panah pada flow sehingga berwarna orange,setelah itu klik kanan dan pilih/klik output. 
+![image](https://github.com/IsmedQalyubi/III-Quiz-Individu/blob/main/Screenshot%20(42).png) 
