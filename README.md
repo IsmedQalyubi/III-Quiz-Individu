@@ -10,3 +10,5 @@ Kemudian ikuti saya proses instalasi nya pilih I Agree dan klik next untuk seter
 ![image](https://github.com/IsmedQalyubi/III-Quiz-Individu/blob/main/IMG_20211025_220839.jpg) 
 
 2.Tutorial mebuat hello world menggunakan flowgorithm
+Pertama klik panah pada flow
+![image](
